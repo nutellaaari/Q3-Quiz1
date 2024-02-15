@@ -1,0 +1,23 @@
+body {
+	background-color: #f9f5f1;
+}
+
+
+
+.container {
+	text-align: center;
+	justify-content: center;
+	padding: 20px;
+}
+
+.table {
+	border: 3px solid #f4cac0;
+}
+
+
+h1, h2, h5, h6 {
+	color: #dca698;
+}
+
+
+
